@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DavidSantosOliveira/diadonoivo.git/static/css/main.aa122958.css",
+    "main.js": "/DavidSantosOliveira/diadonoivo.git/static/js/main.4fb69b3b.js",
+    "static/js/453.de3a1563.chunk.js": "/DavidSantosOliveira/diadonoivo.git/static/js/453.de3a1563.chunk.js",
+    "index.html": "/DavidSantosOliveira/diadonoivo.git/index.html",
+    "main.aa122958.css.map": "/DavidSantosOliveira/diadonoivo.git/static/css/main.aa122958.css.map",
+    "main.4fb69b3b.js.map": "/DavidSantosOliveira/diadonoivo.git/static/js/main.4fb69b3b.js.map",
+    "453.de3a1563.chunk.js.map": "/DavidSantosOliveira/diadonoivo.git/static/js/453.de3a1563.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa122958.css",
+    "static/js/main.4fb69b3b.js"
+  ]
+}
